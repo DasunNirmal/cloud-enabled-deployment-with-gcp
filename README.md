@@ -42,3 +42,8 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+
+## 
+- Name  : Dasun Nirmal
+- SID   : 2301671031
+- Email : dasun200301@gmail.com
